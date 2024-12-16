@@ -10,4 +10,4 @@ Aplicación hecha en Streamlit que muestra los datos sobre los empleados en una 
 
 ## Enlace app
 
-- Contamos con una aplicación lanzada en Streamlit, donde podrá hacer uso de la misma y probarla personalmente: <>
+- Contamos con una aplicación lanzada en Streamlit, donde podrá hacer uso de la misma y probarla personalmente: <https://empleatronix-app.streamlit.app/>
