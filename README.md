@@ -1,5 +1,7 @@
 # Empleatronix
 
+> Jairo Andrades Bueno
+
 Aplicación hecha en Streamlit que muestra los datos sobre los empleados en una aplicación.
 
 ## Tabla
