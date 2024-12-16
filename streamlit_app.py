@@ -43,4 +43,4 @@ fig.update_layout(
 st.plotly_chart(fig)
 
 # Muestra el nombre del desarrollador y el centro
-st.write("© Jairo Andrades Bueno - CPIFP Alan Turing")
+st.write("© Jairo Andrades Bueno - CPIFP Alan Turing") 

@@ -7,3 +7,7 @@ Aplicación hecha en Streamlit que muestra los datos sobre los empleados en una 
 
 ## Gráfica
 - Enseña los datos de los empleados a modo de gráfica, con la posibilidad de **modificar el color** de las barras, **mostrar el nombre** del empleado y **mostrar su sueldo**. 
+
+## Enlace app
+
+- Contamos con una aplicación lanzada en Streamlit, donde podrá hacer uso de la misma y probarla personalmente: <>
